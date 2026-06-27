@@ -33,9 +33,9 @@ README.md
 
 | Variable | Required | Description |
 | --- | --- | --- |
-| `BOT_TOKEN` | Yes | Bot token from BotFather. |
-| `CHANNEL_ID` | Yes | Numeric Telegram channel ID, such as `-1001234567890`, or a public channel username like `@mychannel`. |
-| `ADMIN_ID` | Yes | Numeric Telegram user ID of the administrator allowed to run admin commands. |
+| `8929924883:AAGDmRIjRqa54BrezF9eO1aRdh1GCRStlzk` | Yes | Bot token from BotFather. |
+| `CHANNEL_ID` | Yes | Numeric Telegram channel ID, such as `-1001234567890`, or a public channel username like `@The Brain League`. |
+| `@ARCz10` | Yes | Numeric Telegram user ID of the administrator allowed to run admin commands. |
 | `DATABASE_PATH` | No | SQLite database path. Defaults to `quiz.db`. |
 
 ## Telegram Setup
